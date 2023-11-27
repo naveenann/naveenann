@@ -5,7 +5,7 @@
 #### ABOUT
 
 - 🏢 I'm currently Building Search at **[OSlash](https://www.oslash.com)**
-- ⚙️ I use daily: `java`, `elasticsearch`, `opensearch`, `AWS`
+- ⚙️ I use daily: `rust`,`java`, `elasticsearch`, `opensearch`, `AWS`
 - 💅 Developed:  [SearchBlox](https://www.searchblox.com/), [OpenSearchServer](https://www.opensearchserver.com/)
 - 🌱 Learning all about **Search Engines**
 - 💬 Ping me about **Search Servers**, **OpenSearch**, **JAVA**, **elasticsearch**
