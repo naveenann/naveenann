@@ -4,7 +4,7 @@
 
 #### ABOUT
 
-- 🏢 I'm currently Building Search at **[OSlash](https://www.oslash.com)**
+- 🏢 I'm currently Building Search at **[Atomicwork](https://atomicwork.com/)**
 - ⚙️ I use daily: `rust`,`java`, `elasticsearch`, `opensearch`, `AWS`
 - 💅 Developed:  [SearchBlox](https://www.searchblox.com/), [OpenSearchServer](https://www.opensearchserver.com/)
 - 🌱 Learning all about **Search Engines**
